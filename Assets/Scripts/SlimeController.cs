@@ -7,7 +7,14 @@ public class SlimeController : MonoBehaviour {
 	bool facingRight = true;
 
 	Animator anim;
-	// Use this for initialization
+
+	bool grounded = false;
+
+	public Transform groundCheck;
+	float groundRadius = 0.2f;
+	public LayerMask whatIsGround;
+	public float jumpForce = 700f;
+
 	void Start () {
 		anim = GetComponent<Animator>();
 	}
@@ -15,9 +22,16 @@ public class SlimeController : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 
+
+		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
+
+		anim.SetBool("Ground", grounded);
+
+		anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
+
 		float move = Input.GetAxis ("Horizontal");
 
-		anim.SetFloat ("Speed", Mathf.Abs (move));
+		anim.SetFloat("Speed", Mathf.Abs (move));
 
 		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
 
@@ -25,6 +39,13 @@ public class SlimeController : MonoBehaviour {
 			Flip ();
 		else if(move < 0 && facingRight)
 			Flip ();
+	}
+
+	void Update () {
+		if (grounded && Input.GetKeyDown (KeyCode.Space)) {
+			anim.SetBool ("Ground", false);
+			rigidbody2D.AddForce(new Vector2(0, jumpForce));
+				}
 	}
 
 	void Flip() {
