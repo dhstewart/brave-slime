@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 60af918a682d9443184954fbcaa6dc4b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flower-box
+    21300002: flower-box_0
+    21300004: flower-box_1
+    21300006: flower-box_2
+    21300008: flower-box_3
+    21300010: flower-box_4
+    21300012: flower-box_5
+    21300014: flower-box_6
+    21300016: flower-box_7
+    21300018: flower-box_8
+    21300020: flower-box_9
+    21300022: flower-box_10
+    21300024: flower-box_11
+    21300026: flower-box_12
+    21300028: flower-box_13
+    21300030: flower-box_14
+    21300032: flower-box_15
+    21300034: flower-box_16
+    21300036: flower-box_17
+    21300038: flower-box_18
+    21300040: flower-box_19
+    21300042: flower-box_20
+    21300044: flower-box_21
+    21300046: flower-box_22
+    21300048: flower-box_23
+    21300050: flower-box_24
+    21300052: flower-box_25
+    21300054: flower-box_26
+    21300056: flower-box_27
+    21300058: flower-box_28
+    21300060: flower-box_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flower-box_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 58
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -4.63406372, y: 3.27518082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 37
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 1
+        height: 4
+      alignment: 9
+      pivot: {x: 8.39666748, y: -7.10860062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 37
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 8
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 36
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 35
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 28
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 34
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 23
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 24
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 33
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flower-box_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

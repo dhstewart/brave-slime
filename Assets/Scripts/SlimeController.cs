@@ -55,4 +55,26 @@ public class SlimeController : MonoBehaviour {
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
+
+//	void OnTriggerEnter2D (Collider2D col)
+//	{
+//		if(col.tag == "flowerBox")
+//		{
+//			col.gameObject.GetComponent<FlowerBoxController>().Break();
+//		}
+//	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

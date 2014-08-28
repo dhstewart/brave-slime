@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 7f70d7d9ab1164229b0ffbffb633c108
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jesse-new
+    21300002: jesse-new_0
+    21300004: jesse-new_1
+    21300006: jesse-new_2
+    21300008: jesse-new_3
+    21300010: jesse-new_4
+    21300012: jesse-new_5
+    21300014: jesse-new_6
+    21300016: jesse-new_7
+    21300018: jesse-new_8
+    21300020: jesse-new_9
+    21300022: jesse-new_10
+    21300024: jesse-new_11
+    21300026: jesse-new_12
+    21300028: jesse-new_13
+    21300030: jesse-new_14
+    21300032: jesse-new_15
+    21300034: jesse-new_16
+    21300036: jesse-new_17
+    21300038: jesse-new_18
+    21300040: jesse-new_19
+    21300042: jesse-new_20
+    21300044: jesse-new_21
+    21300046: jesse-new_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jesse-new_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 88
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 19
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 11
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_17
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_20
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_21
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 64
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jesse-new_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
