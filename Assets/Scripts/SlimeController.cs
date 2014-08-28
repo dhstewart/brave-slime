@@ -62,12 +62,6 @@ public class SlimeController : MonoBehaviour {
 		{
 			col.gameObject.rigidbody2D.AddForce (new Vector2(1, 1) * 400.0f);
 		}
-
-		if(col.gameObject.tag == "flowerBox")
-		{
-			col.gameObject.GetComponent<FlowerBoxController>().Break();
-			Destroy (col.gameObject, 2);
-		}
 	}
 }
 
