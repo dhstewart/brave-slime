@@ -3,13 +3,9 @@ using System.Collections;
 
 public class FlowerBoxController : MonoBehaviour {
 
-	private Transform frontCheck;
-	Animator anim;
 
-	void Awake ()
-	{
-	frontCheck = transform.Find("frontCheck").transform;
-	}
+	Animator anim;
+	
 
 	bool broken = true;
 
