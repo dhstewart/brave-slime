@@ -2,15 +2,11 @@
 using System.Collections;
 
 public class FlowerBoxController : MonoBehaviour {
-
-
-	Animator anim;
 	
+	Animator anim;	
 
 	bool broken = true;
-
-
-
+	
 	// Use this for initialization
 	void Start () 
 	{
@@ -23,5 +19,4 @@ public class FlowerBoxController : MonoBehaviour {
 	{  
 		anim.SetBool("Broken", broken);
 	}
-
 }
