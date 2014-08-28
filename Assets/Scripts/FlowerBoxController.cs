@@ -28,18 +28,4 @@ public class FlowerBoxController : MonoBehaviour {
 		anim.SetBool("Broken", broken);
 	}
 
-	void OnTriggerEnter2D (Collider2D col)
-	{
-		anim.SetBool("Broken", broken);
-	}
-
-//	void FixedUpdate ()
-//	{ 
-//		Break ();
-//	}
-
-
-
-
-
 }
