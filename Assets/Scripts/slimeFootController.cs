@@ -3,6 +3,8 @@ using System.Collections;
 
 public class slimeFootController : MonoBehaviour {
 
+
+	float dam = 10f;
 	// Use this for initialization
 	void Start () {
 	
@@ -12,4 +14,14 @@ public class slimeFootController : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void OnCollisionEnter2D (Collision2D col)
+	{
+		
+		if(col.gameObject.tag == "enemy")
+		{
+			col.gameObject.GetComponent<redSlimeHealth>().TakeDamage(dam);;
+		}
+	}
+			
 }
