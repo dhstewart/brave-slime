@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Heart3 : MonoBehaviour {
+public class Heart1 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
