@@ -2,8 +2,7 @@
 using System.Collections;
 
 public class redSlimeHealth : MonoBehaviour {
-
-
+	
 	public float hp = 15f;
 	// Use this for initialization
 	void Start () {
